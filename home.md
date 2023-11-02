@@ -9,4 +9,4 @@ dateCreated: 2023-10-30T12:43:07.491Z
 ---
 
 # Header
-test
+test bidirectionnel
