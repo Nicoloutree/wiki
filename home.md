@@ -9,8 +9,11 @@ dateCreated: 2023-10-30T12:43:07.491Z
 ---
 
 # Header
-test bidirectionnel
+test neovim 
 
+```Powershell
+New-NetIPAddress etc etc
+``` 
 
 test latex
 $$
