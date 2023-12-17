@@ -2,7 +2,7 @@
 title: Home
 description: Bienvenue sur ma page d'accueil WikiJS ! C'est ici que je partage mes projets et mes tests. Je travaille dur pour vous offrir du contenu en français et en anglais. Explorez et découvrez !
 published: true
-date: 2023-12-17T21:54:48.319Z
+date: 2023-12-17T22:07:11.918Z
 tags: home
 editor: markdown
 dateCreated: 2023-10-30T12:43:07.491Z
@@ -47,10 +47,9 @@ Or nous avons posé y = x^2^ donc on a :
 $y$ = - $\frac{2}{3}$ $\Leftrightarrow$ $x^2$ = - $\frac{2}{3}$
 
 $$
-\begin{aligned}
+ \begin{aligned}
  y = - \frac{2}{3} \Leftrightarrow x^2 = - \frac{2}{3} \\
  x= \sqrt{ \frac{2}{3}} \\
-
 \end{aligned}
 $$
 
